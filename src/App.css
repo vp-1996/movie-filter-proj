@@ -1,0 +1,10 @@
+.LangFilter{
+  height: 340px;
+  width: 180px;
+  border: 1pz solid gray;
+  border-style: ridge ;
+}
+
+.langList{
+  list-style-type: none;
+}
